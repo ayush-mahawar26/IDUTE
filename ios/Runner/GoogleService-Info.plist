@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>162119499833-3h4fn6jof6p7labqo09fqtloef1n7dmr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.162119499833-3h4fn6jof6p7labqo09fqtloef1n7dmr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>162119499833-6nnani7sblmqn87j5ir5vjnv3hbrchsa.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA8czzjoqj2WBzAMytcrLPjXrJpbMQCeEA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>162119499833</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.iduteApp</string>
+	<key>PROJECT_ID</key>
+	<string>idute-b5575</string>
+	<key>STORAGE_BUCKET</key>
+	<string>idute-b5575.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:162119499833:ios:7a64e2dedb09ebde0c4de8</string>
+</dict>
+</plist>

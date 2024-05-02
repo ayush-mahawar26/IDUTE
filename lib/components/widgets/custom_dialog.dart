@@ -1,0 +1,10 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/material.dart';
+import 'package:idute_app/components/constants/firebase_constants.dart';
+import 'package:idute_app/components/constants/size_config.dart';
+import 'package:idute_app/components/widgets/custom_cont_text.dart';
+import 'package:idute_app/components/widgets/custom_tff_outlined.dart';
+import 'package:idute_app/components/widgets/normal_text_widget.dart';
+import 'package:idute_app/controller/user_profile_controller.dart';
+import 'package:idute_app/model/user_model.dart';

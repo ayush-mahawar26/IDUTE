@@ -1,0 +1,6 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "/mnt/sda2/idute/idute/linux",
+    "java.compile.nullAnalysis.mode": "disabled"
+}

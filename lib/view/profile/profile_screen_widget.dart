@@ -41,20 +41,6 @@ class _ProfileScreenWidgetState extends State<ProfileScreenWidget>
     super.dispose();
   }
 
-  Tab _buildTabBar(String text) {
-    return Tab(
-      child: Container(
-        color: Colors.black,
-        padding: const EdgeInsets.symmetric(
-            horizontal: 8.0), // Adjust spacing as needed
-        child: Align(
-          alignment: Alignment.center,
-          child:
-              buildText(text: text, txtSize: 12, fontWeight: FontWeight.w500),
-        ),
-      ),
-    );
-  }
 
   @override
   Widget build(BuildContext context) {

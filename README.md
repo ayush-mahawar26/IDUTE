@@ -3,7 +3,7 @@ Social Media for Enterpreneurs
 
 
 
-![WhatsApp Image 2024-07-13 at 16 43 17_f93c7bdb](https://github.com/user-attachments/assets/d5723664-df3a-4ee0-bebd-853b4df35b19)
+![WhatsApp Image 2024-07-13 at 16 43 17_f93c7bdb](https://github.com/user-attachments/assets/d5723664-df3a-4ee0-bebd-853b4df35b19/468x300)
 ![WhatsApp Image 2024-07-13 at 16 43 16_b36820dc](https://github.com/user-attachments/assets/053de282-44b6-4610-b77b-e4c366fff547)
 ![WhatsApp Image 2024-07-13 at 16 43 16_516b1238](https://github.com/user-attachments/assets/11e44e41-f28f-4104-9c31-0eafa3e75235)
 ![WhatsApp Image 2024-07-13 at 16 43 16_1abb2875](https://github.com/user-attachments/assets/6b1de5a2-4e6c-41a5-80b0-56abfe9ed5df)
